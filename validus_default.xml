@@ -36,18 +36,13 @@
   <!-- VALIDUS -->
   <project path="bionic" name="bionic" remote="val" />
   <project path="frameworks/av" name="frameworks_av" groups="pdk" remote="val" />
-  <project path="frameworks/base" name="frameworks_base" remote="val" revision="10.0-test" />
   <project path="frameworks/native" name="frameworks_native" groups="pdk" remote="val" />
   <project path="hardware/gzosp/interfaces" name="hardware_gzosp_interfaces" remote="val" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="val" />  
-  <project path="packages/apps/FunHouse" name="packages_apps_FunHouse" groups="pdk-fs" remote="val" revision="10.0-test" />
   <project path="packages/apps/Launcher3" name="packages_apps_Launcher3" groups="pdk-fs" remote="val" />
-  <project path="packages/apps/OmniStyle" name="packages_apps_OmniStyle" remote="val" />
-  <project path="packages/apps/Settings" name="packages_apps_Settings" groups="pdk-fs" remote="val" revision="10.0-test" />
   <project path="packages/services/Telecomm" name="packages_services_Telecomm" groups="pdk-cw-fs,pdk-fs" remote="val" revision="10.0-test" />
   <project path="system/core" name="system_core" groups="pdk" remote="val" />
   <project path="vendor/qcom/opensource/cryptfs_hw" name="vendor_qcom_opensource_cryptfs_hw" remote="val" />
-  <project path="vendor/validus" name="vendor_validus" remote="val" revision="10.0-test" />
   <project path="system/vold" name="system_vold" groups="pdk" remote="val" />
 
   <!-- GZOSP -->
@@ -93,6 +88,13 @@
   <!-- Prebuilts -->
   <project path="prebuilts/tools-gzosp" name="prebuilts_tools-gzosp" remote="gzosp" clone-depth="1" />
   <project path="prebuilts/openssl" name="prebuilts_openssl" remote="gzosp" clone-depth="1" />
+
+  <!-- My Repos -->
+  <project path="frameworks/base" name="fraz14/frameworks_base" remote="github" revision="10.0-test" />
+  <project path="packages/apps/FunHouse" name="fraz14/packages_apps_FunHouse" groups="pdk-fs" remote="github" revision="10.0-test" />
+  <project path="packages/apps/OmniStyle" name="fraz14/packages_apps_OmniStyle" remote="github" revision="10.0" />
+  <project path="packages/apps/Settings" name="fraz14/packages_apps_Settings" groups="pdk-fs" remote="github" revision="10.0-test" />
+  <project path="vendor/validus" name="fraz14/vendor_validus" remote="github" revision="10.0-test" />
 
 </manifest>
 
