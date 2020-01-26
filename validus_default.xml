@@ -69,7 +69,6 @@
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" groups="apps_nfc,pdk-fs" remote="gzosp" />
   <project path="packages/apps/PermissionController" name="packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="packages/apps/SettingsIntelligence" name="packages_apps_SettingsIntelligence" groups="pdk-fs" remote="gzosp" />
-  <project path="packages/apps/ThemePicker" name="packages_apps_ThemePicker" groups="pdk-fs" remote="gzosp" />
   <project path="packages/providers/DownloadProvider" name="packages_providers_DownloadProvider" remote="gzosp" />
   <project path="packages/services/Telephony" name="packages_services_Telephony" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="system/bt" name="system_bt" remote="gzosp" />
@@ -94,6 +93,7 @@
   <project path="packages/apps/FunHouse" name="fraz14/packages_apps_FunHouse" groups="pdk-fs" remote="github" revision="10.0-test" />
   <project path="packages/apps/OmniStyle" name="fraz14/packages_apps_OmniStyle" remote="github" revision="10.0" />
   <project path="packages/apps/Settings" name="fraz14/packages_apps_Settings" groups="pdk-fs" remote="github" revision="10.0-test" />
+  <project path="packages/apps/ThemePicker" name="fraz14/packages_apps_ThemePicker" groups="pdk-fs" remote="github" revision="10.0" />
   <project path="vendor/validus" name="fraz14/vendor_validus" remote="github" revision="10.0-test" />
 
 </manifest>
