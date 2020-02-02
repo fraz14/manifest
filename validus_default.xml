@@ -98,6 +98,7 @@
 
   <project path="prebuilts/clang/host/linux-x86" name="fraz14/prebuilts_clang_host_linux-x86" remote="github" revision="10.0" clone-depth="1" />
   <project path="prebuilts/clang/host/linux-x86/clang-6032204" name="fraz14/prebuilts_clang_host_linux-x86_clang-6032204" remote="github" revision="10.0" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x86/clang-6170260" name="fraz14/prebuilts_clang_host_linux-x86_clang-6170260" remote="github" revision="10.0" clone-depth="1" />
 
 </manifest>
 
