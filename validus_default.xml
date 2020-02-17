@@ -92,6 +92,7 @@
   <project path="packages/apps/Dialer" name="fraz14/packages_apps_Dialer" groups="pdk-fs" remote="github" revision="10.0" />
   <project path="packages/apps/FunHouse" name="fraz14/packages_apps_FunHouse" groups="pdk-fs" remote="github" revision="10.0-test" />
   <project path="packages/apps/Messaging" name="fraz14/packages_apps_Messaging" groups="pdk-fs" remote="github" revision="10.0" />
+  <project name="packages_services_OmniJaws" path="packages/services/OmniJaws" remote="val" revision="10.0" />
   <project path="packages/apps/OmniStyle" name="fraz14/packages_apps_OmniStyle" remote="github" revision="10.0" />
   <project path="packages/apps/Settings" name="fraz14/packages_apps_Settings" groups="pdk-fs" remote="github" revision="10.0-test" />
   <project path="packages/apps/ThemePicker" name="fraz14/packages_apps_ThemePicker" groups="pdk-fs" remote="github" revision="10.0" />
