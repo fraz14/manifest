@@ -62,7 +62,6 @@
   <project path="hardware/ril" name="hardware_ril" groups="pdk" remote="gzosp" />
   <project path="packages/apps/Bluetooth" name="packages_apps_Bluetooth" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
   <project path="packages/apps/Camera2" name="packages_apps_Camera2" groups="pdk-fs" remote="gzosp" />
-  <project path="packages/apps/DeskClock" name="packages_apps_DeskClock" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/Gallery2" name="packages_apps_Gallery2" groups="pdk-fs" remote="gzosp" />
   <project path="packages/apps/Nfc" name="packages_apps_Nfc" groups="apps_nfc,pdk-fs" remote="gzosp" />
   <project path="packages/apps/PermissionController" name="packages_apps_PackageInstaller" groups="pdk-cw-fs,pdk-fs" remote="gzosp" />
@@ -90,6 +89,7 @@
   <project path="frameworks/base" name="fraz14/frameworks_base" remote="github" revision="10.0-test" />
   <project path="frameworks/native" name="fraz14/frameworks_native" groups="pdk" remote="github" revision="10.0-test" />
   <project path="packages/apps/Contacts" name="fraz14/packages_apps_Contacts" groups="pdk-fs" remote="github" revision="10.0" />
+  <project path="packages/apps/DeskClock" name="fraz14/packages_apps_DeskClock" groups="pdk-fs" remote="github" revision="10.0" />
   <project path="packages/apps/Dialer" name="fraz14/packages_apps_Dialer" groups="pdk-fs" remote="github" revision="10.0" />
   <project path="packages/apps/FunHouse" name="fraz14/packages_apps_FunHouse" groups="pdk-fs" remote="github" revision="10.0-test" />
   <project path="packages/apps/Messaging" name="fraz14/packages_apps_Messaging" groups="pdk-fs" remote="github" revision="10.0" />
