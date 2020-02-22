@@ -89,6 +89,7 @@
   <!-- My Repos -->
   <project path="frameworks/base" name="fraz14/frameworks_base" remote="github" revision="10.0-test" />
   <project path="frameworks/native" name="fraz14/frameworks_native" groups="pdk" remote="github" revision="10.0-test" />
+  <project path="packages/apps/Contacts" name="fraz14/packages_apps_Contacts" groups="pdk-fs" remote="github" revision="10.0" />
   <project path="packages/apps/Dialer" name="fraz14/packages_apps_Dialer" groups="pdk-fs" remote="github" revision="10.0" />
   <project path="packages/apps/FunHouse" name="fraz14/packages_apps_FunHouse" groups="pdk-fs" remote="github" revision="10.0-test" />
   <project path="packages/apps/Messaging" name="fraz14/packages_apps_Messaging" groups="pdk-fs" remote="github" revision="10.0" />
