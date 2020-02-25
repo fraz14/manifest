@@ -102,7 +102,7 @@
   <project path="vendor/validus" name="fraz14/vendor_validus" remote="github" revision="10.0-test" />
 
   <project path="prebuilts/clang/host/linux-x86" name="fraz14/prebuilts_clang_host_linux-x86" remote="github" revision="10.0" clone-depth="1" />
-  <project path="prebuilts/clang/host/linux-x86/clang-6189010" name="fraz14/prebuilts_clang_host_linux-x86_clang-6189010" remote="github" revision="10.0" clone-depth="1" />
+  <project path="prebuilts/clang/host/linux-x86/clang-6207600" name="fraz14/prebuilts_clang_host_linux-x86_clang-6207600" remote="github" revision="10.0" clone-depth="1" />
 
 </manifest>
 
