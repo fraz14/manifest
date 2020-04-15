@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <remote  name="gitlab"
+           fetch="https://gitlab.com" />
+
   <remote  name="github"
            fetch="https://github.com" />
 
@@ -103,6 +106,8 @@
   <project path="vendor/validus" name="fraz14/vendor_validus" remote="github" revision="10.0-test" />
 
   <project path="prebuilts/clang/host/linux-x86" name="fraz14/prebuilts_clang_host_linux-x86" remote="github" revision="10.0" clone-depth="1" />
+
+  <project path="vendor/gapps" name="fraz14/vendor_gapps" remote="gitlab" revision="10.0" clone-depth="1" />
 
 </manifest>
 
