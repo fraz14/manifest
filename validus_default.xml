@@ -48,7 +48,7 @@
 
   <!-- GZOSP -->
   <project path="art" name="art" groups="pdk" remote="gzosp" />
-  <project path="bootable/recovery" name="bootable_recovery" groups="pdk" remote="gzosp" />
+  <project path="bootable/recovery" name="fraz14/bootable_recovery" groups="pdk" remote="github" revision="10.0" />
   <project path="device/gzosp/sepolicy" name="device_gzosp_sepolicy" remote="gzosp" />
   <project path="device/generic/goldfish" name="device_generic_goldfish" groups="pdk" remote="gzosp" />
   <project path="external/json-c" name="external_json-c" remote="gzosp" />
