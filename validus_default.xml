@@ -35,7 +35,6 @@
 
   <!-- VALIDUS -->
   <project path="bionic" name="bionic" remote="val" />
-  <project path="external/motorola/faceunlock" name="external_motorola_faceunlock" remote="val" revision="10.0-test" />
   <project path="frameworks/av" name="fraz14/frameworks_av" groups="pdk" remote="github" revision="10.0" />
   <project path="hardware/gzosp/interfaces" name="hardware_gzosp_interfaces" remote="val" />
   <project path="hardware/interfaces" name="hardware_interfaces" groups="pdk" remote="val" />  
